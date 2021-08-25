@@ -255,7 +255,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to all students, faculty, and staff of Tennessee Tech University. Register for the "4-evening workshop: Software Carpentry" service at <a href="https://outlook.office365.com/owa/calendar/ResearchComputingOfficeHours@TennesseeTechUniversity.onmicrosoft.com/bookings/">this page</a>.
+    This workshop is open to all students, faculty, and staff of Tennessee Tech University. Register for the "4-evening workshop: Software Carpentry" service for September 9 at <a href="https://outlook.office365.com/owa/calendar/ResearchComputingOfficeHours@TennesseeTechUniversity.onmicrosoft.com/bookings/">this page</a>.
 </p>
 
 <hr/>
