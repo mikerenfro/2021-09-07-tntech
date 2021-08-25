@@ -48,7 +48,7 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Software Carpentry (Shell, Git, Python) at Tennessee Tech University, 2021-09"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
